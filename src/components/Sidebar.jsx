@@ -1,5 +1,5 @@
 import React from "react";
-import ZuAI from "../assets/ZuAI.png";
+import ZuAI from "../assets/ZuAi.png";
 import beta from "../assets/beta.png";
 import dashboard from "../assets/dashboard.png";
 import book from "../assets/book_4.png";
