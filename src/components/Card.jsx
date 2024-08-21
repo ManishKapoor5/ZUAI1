@@ -1,5 +1,5 @@
 import React from 'react'
-import Progress from '../assets/Progressbar.png'
+import Progress from '../assets/ProgressBar.png'
 const Card = () => {
   return (
     <div>
